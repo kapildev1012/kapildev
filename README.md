@@ -1,4 +1,5 @@
 # kapildev
-my first github project
-Auther = kapil dev
+This my first github repository.
+<br>
+Auther = kapil dev.
 
